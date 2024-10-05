@@ -31,6 +31,7 @@ This repository focuses on analyzing and visualizing **Opportunity Management** 
   - Hardware Revenue
   - Services Revenue
   - PMO Revenue
+[View the Smartsheet document](https://app.smartsheet.com/sheets/M2GVGVfvvVmpXfPH36fxQj3WFxfC4CHjP5XPvf21)
 
 These fields, along with others such as **Country of Origin**, **Market Segment**, **SLA Timer**, and **Solution Date**, form the basis for tracking and analysis.
 
